@@ -1,0 +1,3 @@
+[submodule "dummy-ui-library"]
+	path = dummy-ui-library
+	url = https://github.com/jpggvilaca/dummy-ui-library.git
